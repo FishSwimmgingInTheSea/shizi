@@ -18,3 +18,5 @@
 - ``Ctrl+` `` 在任意程序里唤起速记小窗
 - 主窗口点关闭后留在系统托盘
 - 笔记默认在 `%APPDATA%\com.notelet.app\notes\`
+
+Copyright (c) 2026 FishSwimmgingInTheSea. 未经许可，不得转载、修改或上架本软件。
