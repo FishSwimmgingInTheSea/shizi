@@ -17,11 +17,13 @@
 
 主窗口：
 
-![主窗口](把主窗口截图拖到这里)
+![主窗口](<img width="2880" height="1698" alt="image" src="https://github.com/user-attachments/assets/418c6eaa-7dca-4069-baa2-c7ed8e91d5e2" />
+)
 
 速记小窗：
 
-![速记小窗](把速记小窗截图拖到这里)
+![速记小窗](<img width="2880" height="1705" alt="image" src="https://github.com/user-attachments/assets/ca2f9a34-d32f-4cac-a549-c23847dd11b8" />
+)
 
 ## 功能
 
@@ -47,5 +49,3 @@
 ## 笔记放在哪
 
 默认在 `%APPDATA%\com.notelet.app\notes\`。在设置里可以换文件夹。
-
-Copyright (c) 2026 FishSwimmgingInTheSea. 未经许可，不得转载、修改或上架本软件。
