@@ -1,6 +1,5 @@
 # 拾字
 
-拾起一闪而过的念头。
 
 拾字是一款 Windows 本地 Markdown 笔记。打开就能写，停下自动保存。笔记是明文 `.md`，存在你自己的电脑上。
 
@@ -13,7 +12,6 @@
 安装时如果 Windows 提示「已保护你的电脑」，点「更多信息」，再选「仍要运行」。
 
 - Windows 10 1809+ 或 Windows 11（64 位）
-- 需要 [WebView2](https://developer.microsoft.com/microsoft-edge/webview2/)。Windows 11 已自带
 
 ## 界面
 
